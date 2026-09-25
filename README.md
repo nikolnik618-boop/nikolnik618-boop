@@ -55,7 +55,6 @@
 
 <br>
 
-<img src="./avatar.jpg" width="220" alt="Lumity avatar">
 
 <p>
   <a href="https://github.com/YOUR_USERNAME">
@@ -81,7 +80,7 @@
 </p>
 
 </td>
-
+<img src="./avatar.jpg" width="220" alt="Lumity avatar">
 <td width="32%" align="center">
 
 

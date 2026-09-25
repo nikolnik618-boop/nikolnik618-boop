@@ -85,17 +85,10 @@
 <td width="32%" align="center">
 
 <img
-  src="./assets/avatar.jpg"
+  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/avatar.jpg"
   width="220"
   alt="Lumity avatar"
 >
-
-</td>
-
-</tr>
-</table>
-
----
 
 
 # 🎴 ВикиАниме

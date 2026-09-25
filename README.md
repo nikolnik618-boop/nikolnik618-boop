@@ -97,53 +97,6 @@
 
 ---
 
-<!-- ═══════════════════════ TECH ═════════════════════════ -->
-
-## 🛠️ Технологии
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,nodejs,sqlite,electron,git,github,vscode&theme=dark"
-    alt="Technology stack"
-  >
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-  <td align="center"><b>Frontend</b></td>
-  <td align="center"><b>Backend / Desktop</b></td>
-  <td align="center"><b>Database</b></td>
-  <td align="center"><b>Tools</b></td>
-</tr>
-
-<tr>
-  <td align="center">
-    HTML5<br>
-    CSS3<br>
-    JavaScript
-  </td>
-
-  <td align="center">
-    Node.js<br>
-    Electron
-  </td>
-
-  <td align="center">
-    SQLite
-  </td>
-
-  <td align="center">
-    Git<br>
-    GitHub<br>
-    VS Code
-  </td>
-</tr>
-</table>
-
----
-
 
 # 🎴 ВикиАниме
 
@@ -197,5 +150,4 @@
 </tr>
 </table>
 
-### 🔧 Стек проекта
 

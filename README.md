@@ -31,60 +31,6 @@
 
 
 
-## 👨‍💻 Обо мне
-
-<table>
-<tr>
-
-<td width="68%" valign="top">
-
-### Lumity
-
-Разрабатываю приложения с упором на удобство, визуальную составляющую и практичность.
-
-Мне нравится сочетать программирование, UI/UX и аниме-эстетику, превращая идеи в полноценные проекты.
-
-### 🎯 Интересы
-
-- 🎨 UI/UX и красивые интерфейсы
-- 💻 Desktop-разработка
-- 🗃️ Базы данных
-- 🎴 Anime / Manga / Games
-- ⚡ Эксперименты с технологиями
-- 🧩 Создание собственных приложений
-
-<br>
-
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    >
-  </a>
-
-  <a href="https://t.me/YOUR_USERNAME">
-    <img
-      src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Telegram"
-    >
-  </a>
-
-  <a href="mailto:your@email.com">
-    <img
-      src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    >
-  </a>
-</p>
-
-</td>
-<img src="./avatar.jpg" width="220" alt="Lumity avatar">
-<td width="32%" align="center">
-
-
-
 
 # 🎴 ВикиАниме
 
